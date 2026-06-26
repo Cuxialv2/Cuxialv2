@@ -58,22 +58,34 @@ const cuxial = {
 
 <br/>
 
-### &nbsp;`~` work
+### &nbsp;`~` products
+
+<sub>Multi-framework &mdash; <b>QBox · ESX · QBCore</b> via <a href="https://cuxial.com/docs/bridge">Cuxial Bridge</a> &nbsp;·&nbsp; <a href="https://cuxial.com">cuxial.com</a></sub>
 
 <table>
   <tr>
-    <td><b><a href="https://cuxial.com">Cuxial Store</a></b></td>
-    <td>Premium multi-framework FiveM scripts &mdash; built for performance</td>
-    <td><a href="https://cuxial.com">Visit&nbsp;&rarr;</a></td>
-  </tr>
-  <tr>
-    <td><b><a href="https://cuxial.com/docs/bridge">Cuxial Bridge</a></b></td>
-    <td>Multi-framework bridge powering every Cuxial resource</td>
-    <td><a href="https://cuxial.com/docs/bridge">Docs&nbsp;&rarr;</a></td>
+    <td valign="top" width="50%">
+
+- <a href="https://cuxial.com/store/7499247"><b>Cuxial Police &amp; EMS</b></a> &mdash; MDT, dispatch, tactical radio &amp; medical
+- <a href="https://cuxial.com/store/7486964"><b>Cuxial Garages</b></a> &mdash; keys, car wipe, impound &amp; financing
+- <a href="https://cuxial.com/store/7481256"><b>Cuxial Banking</b></a> &mdash; accounts, cards, loans, savings &amp; payroll
+- <a href="https://cuxial.com/store/7483117"><b>Cuxial Medical</b></a> &mdash; body-zone injuries &amp; progressive death
+- <a href="https://cuxial.com/store/7513849"><b>Cuxial License / ID</b></a> &mdash; visual ID card creator &amp; live preview
+- <a href="https://cuxial.com/store/7394082"><b>Cuxial Emote Menu v2</b></a> &mdash; 4,000+ emotes, photo mode &amp; zone emotes
+
+  </td>
+  <td valign="top" width="50%">
+
+- <a href="https://cuxial.com/store/7394044"><b>Cuxial Anuncios</b></a> &mdash; per-job announcements, 11 templates, live editor
+- <a href="https://cuxial.com/store/7415189"><b>Cuxial PvP</b></a> &mdash; arena duels (1v1&ndash;30v30) with betting &amp; leaderboard
+- <a href="https://cuxial.com/store/7479335"><b>Cuxial Gym</b></a> &mdash; 6 skills that change real stats, supplements &amp; boosters
+- <a href="https://cuxial.com/store/7480096"><b>Cuxial CM Services</b></a> &mdash; admin jail + community service with tasks
+- <a href="https://cuxial.com/store/7479197"><b>Cuxial Safe Zone Creator</b></a> &mdash; in-game visual polygon zone creator
+- <a href="https://cuxial.com/docs/bridge"><b>Cuxial Bridge</b></a> &mdash; the multi-framework bridge powering it all
+
+  </td>
   </tr>
 </table>
-
-<sub>Browse the full catalogue at <a href="https://cuxial.com">cuxial.com</a>.</sub>
 
 <br/>
 
