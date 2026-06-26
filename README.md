@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:EF4444&height=210&section=header&text=Cuxial&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20FiveM%20Creator&descSize=17&descAlignY=58" alt="Cuxial" />
 
 <a href="https://cuxial.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=EF4444&center=true&vCenter=true&width=620&height=50&lines=Crafting+refined+interfaces;Clean+architecture+%26+performance;Premium+Qbox+%2F+FiveM+resources;From+database+to+pixel" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=EF4444&center=true&vCenter=true&width=620&height=50&lines=Crafting+refined+interfaces;Clean+architecture+%26+performance;Premium+multi-framework+FiveM+scripts;From+database+to+pixel" alt="typing" />
 </a>
 
 <p>
@@ -25,7 +25,7 @@ const cuxial = {
   role:    ["Full-Stack Developer", "FiveM Creator"],
   stack:   ["TypeScript", "React", "Next.js", "Svelte", "Lua", "SQL"],
   focus:   "refined UI · clean architecture · performance",
-  current: "premium Qbox/FiveM scripts & the cuxial.com store",
+  current: "premium multi-framework FiveM scripts & the cuxial.com store",
   motto:   "details are not the details — they make the design",
 };
 ```
@@ -62,29 +62,14 @@ const cuxial = {
 
 <table>
   <tr>
-    <td valign="top" width="50%">
-
-<b>Platform</b>
-
-- <a href="https://cuxial.com"><b>Cuxial Store</b></a> — storefront · Next.js + Tebex
-- <a href="https://cuxial.com/docs/bridge"><b>Cuxial Bridge</b></a> — framework bridge for FiveM
-- <a href="https://cuxial.com/docs/bridge"><b>Cuxial MDT</b></a> — Police / EMS terminal · Svelte + Lua
-
-  </td>
-  <td valign="top" width="50%">
-
-<b>Scripts &nbsp;·&nbsp; <a href="https://cuxial.com">cuxial.com</a></b>
-
-- <b>CX Advanced Garage</b> — vehicle storage · Qbox
-- <b>CX Multicharacter</b> — character selector · Qbox
-- <b>CX Inventory</b> — inventory system · Qbox
-- <b>CX Phone</b> — smartphone · Qbox
-- <b>CX Dealership</b> — vehicle dealership
-- <b>CX HUD Pro</b> — modern HUD / status UI
-- <b>CX Admin Panel</b> — standalone admin menu
-- <b>CX Loading Screen</b> — server loading screen
-
-  </td>
+    <td><b><a href="https://cuxial.com">Cuxial Store</a></b></td>
+    <td>Premium multi-framework FiveM scripts &mdash; built for performance</td>
+    <td><a href="https://cuxial.com">Visit&nbsp;&rarr;</a></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://cuxial.com/docs/bridge">Cuxial Bridge</a></b></td>
+    <td>Multi-framework bridge powering every Cuxial resource</td>
+    <td><a href="https://cuxial.com/docs/bridge">Docs&nbsp;&rarr;</a></td>
   </tr>
 </table>
 
