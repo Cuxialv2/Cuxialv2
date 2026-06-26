@@ -113,9 +113,9 @@ const cuxial = {
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cuxialv2/Cuxialv2/output/snake-dark.svg?v=4" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cuxialv2/Cuxialv2/output/snake.svg?v=4" />
-  <img width="100%" src="https://raw.githubusercontent.com/Cuxialv2/Cuxialv2/output/snake-dark.svg?v=4" alt="snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cuxialv2/Cuxialv2/output/snake-dark.svg?v=5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cuxialv2/Cuxialv2/output/snake.svg?v=5" />
+  <img width="100%" src="https://raw.githubusercontent.com/Cuxialv2/Cuxialv2/output/snake-dark.svg?v=5" alt="snake" />
 </picture>
 
 </div>
