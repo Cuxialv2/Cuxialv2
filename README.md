@@ -1,28 +1,24 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:E11D2A&height=210&section=header&text=Cuxial&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20FiveM%20Creator&descSize=17&descAlignY=58" alt="Cuxial" />
+
 <a href="https://cuxial.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=E11D2A&center=true&vCenter=true&width=620&height=70&lines=Cuxial;Full-Stack+Developer;FiveM+%2F+GTA+RP+Creator;Crafting+refined+interfaces" alt="Cuxial" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=E11D2A&center=true&vCenter=true&width=620&height=50&lines=Crafting+refined+interfaces;Clean+architecture+%26+performance;Premium+FiveM+resources;From+database+to+pixel" alt="typing" />
 </a>
-
-<br/>
-
-<p>
-  <samp>Building polished products end-to-end &mdash; from database to pixel.</samp>
-</p>
 
 <p>
   <a href="https://cuxial.com"><img src="https://img.shields.io/badge/Store-0D1117?style=flat-square&logo=shopify&logoColor=E11D2A" alt="Store"/></a>
   <a href="https://cuxial.com/docs/bridge"><img src="https://img.shields.io/badge/Docs-0D1117?style=flat-square&logo=readthedocs&logoColor=E11D2A" alt="Docs"/></a>
   <a href="https://cuxial.com/support"><img src="https://img.shields.io/badge/Support-0D1117?style=flat-square&logo=gitbook&logoColor=E11D2A" alt="Support"/></a>
   <a href="https://discord.com/users/TU_ID"><img src="https://img.shields.io/badge/Discord-0D1117?style=flat-square&logo=discord&logoColor=E11D2A" alt="Discord"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Cuxialv2&style=flat-square&color=0D1117&label=views" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=Cuxialv2&style=flat-square&color=E11D2A&label=views" alt="views"/>
 </p>
 
 </div>
 
 <br/>
 
-### &nbsp;&nbsp;`~` whoami
+### &nbsp;`~` whoami
 
 ```ts
 const cuxial = {
@@ -36,7 +32,7 @@ const cuxial = {
 
 <br/>
 
-### &nbsp;&nbsp;`~` tech
+### &nbsp;`~` tech
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white" />
@@ -57,7 +53,28 @@ const cuxial = {
 
 <br/>
 
-### &nbsp;&nbsp;`~` stats
+### &nbsp;`~` work
+
+<details open>
+  <summary><b>Featured</b></summary>
+  <br/>
+  <table>
+    <tr>
+      <td><b>Cuxial Bridge</b></td>
+      <td>Framework bridge for FiveM resources</td>
+      <td><a href="https://cuxial.com/docs/bridge">Docs</a></td>
+    </tr>
+    <tr>
+      <td><b>Cuxial MDT</b></td>
+      <td>Police / EMS terminal — Svelte + Lua</td>
+      <td><a href="https://cuxial.com">Store</a></td>
+    </tr>
+  </table>
+</details>
+
+<br/>
+
+### &nbsp;`~` stats
 
 <div align="center">
 
@@ -68,13 +85,23 @@ const cuxial = {
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Cuxialv2&hide_border=true&background=00000000&stroke=E11D2A&ring=E11D2A&fire=E11D2A&currStreakLabel=E11D2A&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" />
 
+<br/>
+<br/>
+
+<img width="85%" src="https://github-profile-trophy.vercel.app/?username=Cuxialv2&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" />
+
+<br/>
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Cuxialv2&bg_color=00000000&color=E11D2A&line=E11D2A&point=FFFFFF&area=true&area_color=E11D2A&hide_border=true&custom_title=Contribution%20Graph" />
+
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/Cuxialv2/Cuxialv2/output/snake.svg" alt="snake" />
+
 </div>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cuxialv2&bg_color=00000000&color=E11D2A&line=E11D2A&point=FFFFFF&area=true&area_color=E11D2A&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
-
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E11D2A,100:0D1117&height=120&section=footer" alt="footer" />
 
 <div align="center">
   <samp><sub>Designed & built with care — no templates, no noise.</sub></samp>
