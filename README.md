@@ -103,6 +103,11 @@ const cuxial = {
 <br/>
 <br/>
 
+<img width="85%" src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Cuxialv2&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" />
+
+<br/>
+<br/>
+
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Cuxialv2&bg_color=00000000&color=EF4444&line=EF4444&point=FFFFFF&area=true&area_color=EF4444&hide_border=true&custom_title=Contribution%20Graph" />
 
 <br/>
