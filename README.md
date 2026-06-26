@@ -93,17 +93,12 @@ const cuxial = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Cuxialv2&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=EF4444&icon_color=EF4444&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Cuxialv2&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=EF4444&icon_color=EF4444&text_color=C9D1D9&v=2" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cuxialv2&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=EF4444&text_color=C9D1D9" />
 
 <br/>
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Cuxialv2&hide_border=true&background=00000000&stroke=EF4444&ring=EF4444&fire=EF4444&currStreakLabel=EF4444&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" />
-
-<br/>
-<br/>
-
-<img width="85%" src="https://github-profile-trophy.vercel.app/?username=Cuxialv2&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" />
 
 <br/>
 <br/>
