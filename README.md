@@ -60,27 +60,35 @@ const cuxial = {
 
 ### &nbsp;`~` work
 
-<details open>
-  <summary><b>Featured</b></summary>
-  <br/>
-  <table>
-    <tr>
-      <td><b>Cuxial Store</b></td>
-      <td>Storefront for premium FiveM scripts — Next.js · Postgres</td>
-      <td><a href="https://cuxial.com">Visit</a></td>
-    </tr>
-    <tr>
-      <td><b>Cuxial Bridge</b></td>
-      <td>Framework bridge for FiveM resources</td>
-      <td><a href="https://cuxial.com/docs/bridge">Docs</a></td>
-    </tr>
-    <tr>
-      <td><b>Cuxial MDT</b></td>
-      <td>Police / EMS terminal — Svelte + Lua</td>
-      <td><a href="https://cuxial.com">Store</a></td>
-    </tr>
-  </table>
-</details>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+<b>Platform</b>
+
+- <a href="https://cuxial.com"><b>Cuxial Store</b></a> — storefront · Next.js + Tebex
+- <a href="https://cuxial.com/docs/bridge"><b>Cuxial Bridge</b></a> — framework bridge for FiveM
+- <a href="https://cuxial.com/docs/bridge"><b>Cuxial MDT</b></a> — Police / EMS terminal · Svelte + Lua
+
+  </td>
+  <td valign="top" width="50%">
+
+<b>Scripts &nbsp;·&nbsp; <a href="https://cuxial.com">cuxial.com</a></b>
+
+- <b>CX Advanced Garage</b> — vehicle storage · Qbox
+- <b>CX Multicharacter</b> — character selector · Qbox
+- <b>CX Inventory</b> — inventory system · Qbox
+- <b>CX Phone</b> — smartphone · Qbox
+- <b>CX Dealership</b> — vehicle dealership
+- <b>CX HUD Pro</b> — modern HUD / status UI
+- <b>CX Admin Panel</b> — standalone admin menu
+- <b>CX Loading Screen</b> — server loading screen
+
+  </td>
+  </tr>
+</table>
+
+<sub>Browse the full catalogue at <a href="https://cuxial.com">cuxial.com</a>.</sub>
 
 <br/>
 
@@ -107,7 +115,7 @@ const cuxial = {
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/Cuxialv2/Cuxialv2/output/snake.svg" alt="snake" />
+<img width="100%" src="https://raw.githubusercontent.com/Cuxialv2/Cuxialv2/output/snake.svg?v=2" alt="snake" />
 
 </div>
 
